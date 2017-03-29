@@ -10,3 +10,5 @@ Driver Program ensures the efficiency and robustness of the algorithm. Also has 
 Best case can be under 0.140 sec  
 
 Always open for updates to add a User Interface making it easier to input the Sudoku Grid..
+
+Uses a backtracking algorithm
